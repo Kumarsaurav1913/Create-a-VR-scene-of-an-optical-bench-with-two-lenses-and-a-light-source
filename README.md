@@ -1,7 +1,7 @@
 ## Introduction
 
 
-<b>discipline | <b>kumar saurav
+<b>discipline | <b>Kumar Saurav
 :--|:--|
 <b> Lab | <b> Virtual Lab
 <b> Experiment|     <b> Create a VR scene of an optical bench with two lenses and a light source.
