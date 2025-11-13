@@ -13,8 +13,8 @@ Fill a brief description of this experiment here
 <b>Name of Developer | <b> Dr. Ashutosh Tiwari Sir
 :--|:--|
 <b> Institute | <b>  Rajkiya Engineering College,Banda
-<b> Email id|     <b>  
-<b> Department |  
+<b> Email id|     <b> kumarsauravks1913@gmail.com 
+<b> Department |  <b> Information Technology
 
 ### Contributors List
 
