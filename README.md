@@ -1,7 +1,7 @@
 ## Introduction
 
 
-<b>discipline | <b>Kumar Saurav
+<b>discipline | <b> Information Technology
 :--|:--|
 <b> Lab | <b> Virtual Lab
 <b> Experiment|     <b> Create a VR scene of an optical bench with two lenses and a light source.
@@ -10,9 +10,9 @@
 
 Fill a brief description of this experiment here
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer | <b> Dr. Ashutosh Tiwari Sir
 :--|:--|
-<b> Institute | <b>  
+<b> Institute | <b>  Rajkiya Engineering College,Banda
 <b> Email id|     <b>  
 <b> Department |  
 
